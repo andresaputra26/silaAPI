@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: signlang-api
+    name: sila-api
     env: python
     region: singapore
     plan: free
